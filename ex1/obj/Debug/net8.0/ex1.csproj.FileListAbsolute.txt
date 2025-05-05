@@ -1,0 +1,14 @@
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\bin\Debug\net8.0\ex1.exe
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\bin\Debug\net8.0\ex1.deps.json
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\bin\Debug\net8.0\ex1.runtimeconfig.json
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\bin\Debug\net8.0\ex1.dll
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\bin\Debug\net8.0\ex1.pdb
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.AssemblyInfoInputs.cache
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.AssemblyInfo.cs
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.dll
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\refint\ex1.dll
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.pdb
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ex1.genruntimeconfig.cache
+C:\Users\Bernardo\Desktop\Infnet\Bloco Backend\C#\Desenvolvimento Web\bernardo_cytryn_DR4_TP1\TP1-Desenv-C#\ex1\obj\Debug\net8.0\ref\ex1.dll

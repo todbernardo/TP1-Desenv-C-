@@ -1,0 +1,15 @@
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\bin\Debug\net8.0\ex3.exe
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\bin\Debug\net8.0\ex3.deps.json
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\bin\Debug\net8.0\ex3.runtimeconfig.json
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\bin\Debug\net8.0\ex3.dll
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\bin\Debug\net8.0\ex3.pdb
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.AssemblyInfoInputs.cache
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.AssemblyInfo.cs
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.sourcelink.json
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.dll
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\refint\ex3.dll
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.pdb
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ex3.genruntimeconfig.cache
+C:\Users\bernardo.cytryn\source\repos\todbernardo\TP1-Desenv-C-\TP1-Desenv-C#\ex3\obj\Debug\net8.0\ref\ex3.dll

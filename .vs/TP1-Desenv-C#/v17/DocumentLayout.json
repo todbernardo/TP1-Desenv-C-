@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A3FA07-65D8-4F69-8066-3964EEAD90E7}|ex4\\ex4.csproj|c:\\users\\bernardo.cytryn\\source\\repos\\todbernardo\\tp1-desenv-c-\\tp1-desenv-c#\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A3FA07-65D8-4F69-8066-3964EEAD90E7}|ex4\\ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A70B5E-C1F1-4CC4-BDE1-CED6CFA39938}|..\\..\\..\\..\\..\\..\\..\\Projetos\\TP1-Desenv-CSharp\\ex2\\ex2.csproj|c:\\projetos\\tp1-desenv-csharp\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEFA0E9-68BE-4410-BBDF-2C534BB94E26}|ex3\\ex3.csproj|c:\\users\\bernardo.cytryn\\source\\repos\\todbernardo\\tp1-desenv-c-\\tp1-desenv-c#\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEFA0E9-68BE-4410-BBDF-2C534BB94E26}|ex3\\ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEFA0E9-68BE-4410-BBDF-2C534BB94E26}|ex3\\ex3.csproj|c:\\users\\bernardo.cytryn\\source\\repos\\todbernardo\\tp1-desenv-c-\\tp1-desenv-c#\\ex3\\ex3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BEFA0E9-68BE-4410-BBDF-2C534BB94E26}|ex3\\ex3.csproj|solutionrelative:ex3\\ex3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD6C830-AFBC-40B7-B2F5-9B23354C3AD5}|ex1\\ex1.csproj|c:\\users\\bernardo.cytryn\\source\\repos\\todbernardo\\tp1-desenv-c-\\tp1-desenv-c#\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD6C830-AFBC-40B7-B2F5-9B23354C3AD5}|ex1\\ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex4\\Program.cs",
+              "RelativeDocumentMoniker": "ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex4\\Program.cs",
+              "RelativeToolTip": "ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:41:12.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\TP1-Desenv-CSharp\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Projetos\\TP1-Desenv-CSharp\\ex2\\Program.cs",
+              "ToolTip": "C:\\Projetos\\TP1-Desenv-CSharp\\ex2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Projetos\\TP1-Desenv-CSharp\\ex2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:33:29.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex1\\Program.cs",
+              "RelativeDocumentMoniker": "ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex1\\Program.cs",
+              "RelativeToolTip": "ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:32:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex3\\Program.cs",
+              "RelativeDocumentMoniker": "ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex3\\Program.cs",
+              "RelativeToolTip": "ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:29:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex3.csproj",
+              "DocumentMoniker": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex3\\ex3.csproj",
+              "RelativeDocumentMoniker": "ex3\\ex3.csproj",
+              "ToolTip": "C:\\Users\\bernardo.cytryn\\source\\repos\\todbernardo\\TP1-Desenv-C-\\TP1-Desenv-C#\\ex3\\ex3.csproj",
+              "RelativeToolTip": "ex3\\ex3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T10:29:53.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
